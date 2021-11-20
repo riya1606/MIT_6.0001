@@ -9,7 +9,9 @@ Chapterwise Reading for the Course: ![Screenshot 2021-11-19 at 5 16 22 PM](https
 - What is Computation?
 - Types of Knowledge: Declerative Knowledge and Imperitive Knowledge
 - Basic Machine Architecture
-- Everything is an object in python 
+- Aspects of language: Syntax, Static Semantic
+- Everything is an object in python
+- Two types of object in python: Scalar Object and Non Scalar Object 
 - Scalar Objects in Python (int, float, bool, None)
 - type() --> used to find type of an object
 - Type Conversion or Casting
@@ -25,3 +27,11 @@ Chapterwise Reading for the Course: ![Screenshot 2021-11-19 at 5 16 22 PM](https
 - Break Statement
 - For vs While Loop
 ### Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection
+- String Manipulation 
+    - len()
+    - indexing
+    - slicing
+    - string and for loop
+- Guess and Check
+- Approximate Solutions 
+- Bisection Search   
